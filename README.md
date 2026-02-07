@@ -56,6 +56,16 @@ All core processing is performed locally to ensure reliability in rural and low-
 
 ---
 
+## Government Scheme Awareness
+
+This module helps farmers stay informed about active and relevant government agricultural schemes. It provides simplified information on subsidies, MSP announcements, crop insurance programs, and seasonal support schemes.
+
+The feature highlights scheme eligibility, key benefits, and important deadlines in a farmer-friendly format. It integrates with KrishiRakshak AI advisories to align risk alerts with available government support.
+
+Designed for low-bandwidth environments, this module supports future expansion into personalized recommendations, regional language support, and integration with official government data sources.
+
+---
+
 ## Technology Stack
 
 Hardware
