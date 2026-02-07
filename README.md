@@ -116,13 +116,3 @@ KrishiRakshak AI is developed as a working Proof of Concept for a hackathon and 
 
 This project was built with a strong focus on practical deployment, rapid prototyping, and solving real agricultural challenges faced by Indian smallholder farmers.
 
----
-
-If you want next, I can also give you (copy-paste ready):
-
-* GitHub **folder structure**
-* **Demo section** text
-* **License** text
-* **Pitch summary** for README top
-
-Just tell me 👍
