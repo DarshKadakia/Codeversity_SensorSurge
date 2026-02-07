@@ -1,9 +1,5 @@
 # Codeversity_SensorSurge
 Official Repo for Codeversity by Team SensorSurge
-Perfect 👍
-Below is **EVERYTHING in one clean, copy-paste–ready format** for your **GitHub README.md**.
-No comments, human tone, professional, hackathon-ready.
-You can paste this **as-is**.
 
 ---
 
